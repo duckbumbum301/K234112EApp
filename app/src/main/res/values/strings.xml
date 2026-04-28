@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">K234112EApp</string>
+    <string name="str_welcome">WELCOME TO JAPAN</string>
+    <string name="str_say_tokyo">HELLO TOKYO</string>
+    <string name="str_clickme_to_tokyo">Konichiwa</string>
+    <string name="str_login_system">Login System</string>
+    <string name="str_username">Username:</string>
+    <string name="str_hint_username">Enter your Username</string>
+    <string name="str_password">Password:</string>
+    <string name="str_hint_password">Enter Password</string>
+    <string name="str_log">Login</string>
+    <string name="str_exit">Exit</string>
+    <string name="str_login_success">Login Success</string>
+    <string name="str_login_failed">Login Failed</string>
+</resources>

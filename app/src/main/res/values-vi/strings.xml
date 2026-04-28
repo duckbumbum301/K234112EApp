@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K234112EApp</string>
+    <string name="str_welcome">CHÀO MỪNG ĐẾN NHẬT BẢN</string>
+    <string name="str_say_tokyo">XIN CHÀO ĐÔNG KINH</string>
+    <string name="str_clickme_to_tokyo">Konichiwa</string>
+    <string name="str_login_system">Login System</string>
+    <string name="str_username">Username:</string>
+    <string name="str_hint_username">Enter your Username</string>
+    <string name="str_password">Password:</string>
+    <string name="str_hint_password">Enter Password</string>
+    <string name="str_log">Login</string>
+    <string name="str_exit">Exit</string>
+    <string name="str_login_success">Đăng nhập thành công</string>
+    <string name="str_login_failed">Đăng nhập thất bại</string>
+</resources>
